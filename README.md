@@ -14,7 +14,7 @@ Browse to the below directory and edit the sh_config.lua file to your liking.
 
 Next, start up Garry’s Mod and click Create Multiplayer at the main menu. Select the HL2 map of your choice and then click the Options tab. Set the Default Gamemode option to “half-life-2-campaign”. Set any other options you’d like and then click Start Game.
 
-# Running a Dedicated Server
+## Running a Dedicated Server
 Note: Start with a fresh installation of SRCDS with just Garry's Mod installed.
 Browse to the below directory and edit the sh_config.lua file to your liking. It will be assumed for the rest of these instructions that PLAY_EPISODE_1 and PLAY_EPISODE_2 are both set to 0.
 
